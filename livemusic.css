@@ -41,7 +41,7 @@ li{
 
 main{
     height: 500px;
-    background-image: url("");
+    background-image: url("./images/background.jpg");
     background-size: cover;
     position:relative;
 }
