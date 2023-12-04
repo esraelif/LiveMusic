@@ -48,7 +48,7 @@ main {
 .long{margin: 50px;text-align: center;}
 .read{display:inline;padding-left: 625px;font-size: 32px;border: #ff0078;}
 
-footer{display: inline-flex;height: 200px;}
+footer{display:inline-flex;height: 200px;}
 .fa-solid{border: 1px solid blue;height: 300px;width: 300px;font-size: 8px;}
 .fa-user{border: 1px solid red;height: 300px;width: 300px;font-size: 8px;}
 .fa-video{border: 1px solid red;height: 200px;width: 300px;font-size: 8px;}
